@@ -1,0 +1,1 @@
+# Add target Bitcoin addresses here, one per line
