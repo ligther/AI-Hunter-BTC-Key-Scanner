@@ -32,3 +32,22 @@ python3 finder.py
 
 ## License
 MIT License
+
+
+
+☕ Support This Project
+
+If you find this project useful or interesting, consider supporting it with a small tip — it helps keep the development going!
+
+💰 Bitcoin (BTC) Address:
+1MPGytt78v9xR74b9qgPkfKUjTeWPuw8AK
+
+USDT
+TB6VpfxQN9hzitMDQxw4kxs4wqAGdyEahG
+Other ways to support:
+
+⭐ Star this repository
+
+🗣 Share it with others
+
+🧠 Contribute improvements or feedback
